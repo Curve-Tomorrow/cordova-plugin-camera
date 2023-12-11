@@ -1,5 +1,8 @@
 11-Decembe-23 -- Nikhil Jain--> This fork is used in AllergyPal and it has the fixes to Enable Camera functionalities for Android 12+ versions as well along with the IOS latest versions.
 
+Originally forked from : https://github.com/felicienfrancois/cordova-plugin-camera#7d66143ed55d817676c10a460c66938519d4b85b
+
+github:felicienfrancois/cordova-plugin-camera#7d66143ed55d817676c10a460c66938519d4b85b
 
 ---
 title: Camera
