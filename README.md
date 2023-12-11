@@ -1,3 +1,6 @@
+11-Decembe-23 -- Nikhil Jain--> This fork is used in AllergyPal and it has the fixes to Enable Camera functionalities for Android 12+ versions as well along with the IOS latest versions.
+
+
 ---
 title: Camera
 description: Take pictures with the device camera.
